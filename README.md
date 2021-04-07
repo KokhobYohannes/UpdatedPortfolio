@@ -1,7 +1,13 @@
 # UpdatedPortfolio
 
-https://www.linkedin.com/in/kokhob-yohannes/
- 
-![Screen Shot 2021-03-08 at 9 34 22 PM](https://user-images.githubusercontent.com/72357196/110409934-1010a080-8056-11eb-856a-adf48a320a85.png)
+Goal: To create a responsive three page portfolio using Bootstrap with a navbar and functional links.
 
- 
+Fonts used: Font Awesome
+
+Languages used: HTML, CSS
+
+Frameworks used: Bootstrap
+
+Github Homework link: https://kokhobyohannes.github.io/UpdatedPortfolio/
+
+Repository link: https://github.com/KokhobYohannes/UpdatedPortfolio

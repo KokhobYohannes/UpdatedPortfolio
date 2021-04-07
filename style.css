@@ -1,0 +1,43 @@
+body {
+  padding: 2%;
+  background-color: black;
+  color: grey;
+  font-family: "PT Serif", serif;
+  font-family: "Roboto", sans-serif;
+  font-family: "Ubuntu", sans-serif;
+  margin: 0 auto;
+}
+
+.page-header {
+  text-align: center;
+}
+
+nav {
+  background: whitesmoke;
+  box-shadow: 0 0 60px 10px #fff,
+    /* inner white */ 0 0 80px 20px rgb(244, 198, 244),
+    /* middle magenta */ 0 0 70px 40px rgb(173, 255, 255); /* outer cyan */
+  color: grey;
+  padding: 0;
+  width: 100%;
+}
+
+row {
+  background-color: black;
+  margin: 0 auto;
+}
+
+col {
+  background-color: black;
+}
+
+.footer {
+  text-align: center;
+  position: fixed;
+  bottom: 0px;
+  background-color: rgb(46, 46, 46);
+  color: white;
+  width: 100%;
+  margin: 0 0;
+  padding: 0%;
+}
